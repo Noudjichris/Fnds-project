@@ -1,0 +1,20 @@
+﻿*****************Erreur apparue le 04/08/2022 11:03:09**********************
+t
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : inner
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : inner
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à SGSP.Formes.ListeDesPersonelsFrm.ListeDesPersonnels()
+
+*****************Erreur apparue le 04/08/2022 11:03:44**********************
+t
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : inner
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : inner
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à SGSP.Formes.ListeDesPersonelsFrm.ListeDesPersonnels()
+

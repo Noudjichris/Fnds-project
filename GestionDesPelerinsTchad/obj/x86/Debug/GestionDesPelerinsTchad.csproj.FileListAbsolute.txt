@@ -1,0 +1,38 @@
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.LoginForm.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.MainForm.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.PelerinFrm.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Properties.Resources.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.PersonnelFrm.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.RechercherFrm.resources
+C:\Users\HP\Desktop\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.UtilisateurFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.Form1.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.LoginForm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.MainForm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.PelerinFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.PersonnelFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.RecherchePersonnel.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.RechercherFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Formes.UtilisateurFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.Properties.Resources.resources
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NGARO\Desktop\toutes les project\GestionDesPelerinsTchad\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NGARO\Desktop\GestionDesPersonnels\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\NGARO\Desktop\GestionDesPersonnels\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NGARO\Desktop\GestionDesPersonnels\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb

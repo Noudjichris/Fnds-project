@@ -1,0 +1,194 @@
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\Interop.WIA.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csproj.ResolveComReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\bin\Debug\Images\images1.jpg
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\bin\Debug\Images\index2.jpg
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AbsenceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteCongeCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteEchelon.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteExpirationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteFinEtudeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteFinStageCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AvanceSurSalaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ApprouvFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AcompteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.BanqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.BilanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DemandeEmploiFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DirectionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DivisionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.EtatDepenseRecetteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\EcoSoft.Formes.EtudiantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.EtudiantListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.InformationEtudiantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.JournalDeCaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.LibelleDepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CategorieFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CongeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DetailDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DetailsPaiementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DocStock.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DossierForm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CoutFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.FournisseurCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.FournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.FraisConFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAlerteStagiagireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAvancementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAvanceSurSalaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAccompteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeDesPersonelsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFacturesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFinEtudesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFraisCongeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePaiemenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePerso.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePersonnelProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeRetraiteFinContratFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.LocalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.MissionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.MissionPersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.FormationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PartenaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonnelsTchad.PersonnelProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ServiceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.InformationPersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.MainForm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.ModifTsockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PaiementForme.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PayeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.PersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PreviewBagdeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.RecapSalarialFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.RubriqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ScanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.SoldeJournaFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StageFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StagiaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StagiaireListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TBRHFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TiersFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeBilanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeContratFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.UniveristeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.UtilisateurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.compiled
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TBActivitesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\Interop.WIA.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csproj.ResolveComReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\bin\Debug\Images\images1.jpg
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\bin\Debug\Images\index2.jpg
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AbsenceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteCongeCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteEchelon.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteExpirationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteFinEtudeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AlerteFinStageCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AvanceSurSalaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ApprouvFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.AcompteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.BanqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.BilanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DemandeEmploiFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DirectionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DivisionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.EtatDepenseRecetteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\EcoSoft.Formes.EtudiantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.EtudiantListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.InformationEtudiantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.JournalDeCaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.LibelleDepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CategorieFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CongeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DetailDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DetailsPaiementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DocStock.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DossierForm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.DocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.CoutFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.FournisseurCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.FournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.FraisConFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAlerteStagiagireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAvancementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAvanceSurSalaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeAccompteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeDesPersonelsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFacturesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFinEtudesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeFraisCongeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePaiemenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePerso.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListePersonnelProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ListeRetraiteFinContratFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.LocalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.MissionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.MissionPersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.FormationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PartenaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonnelsTchad.PersonnelProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ProjetFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ServiceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.InformationPersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.MainForm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGDP.Formes.ModifTsockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PaiementForme.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PayeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.PersonnelFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.PreviewBagdeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.RecapSalarialFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.RubriqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.ScanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.SoldeJournaFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StageFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StagiaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.StagiaireListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TBActivitesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TBRHFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TiersFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeBilanFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeContratFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.TypeDocumentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.UniveristeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Formes.UtilisateurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\SGSP.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\GRH INSEED\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.compiled
